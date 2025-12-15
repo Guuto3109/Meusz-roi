@@ -36,7 +36,7 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 ### 3. O Paladino (Draconato)
 *Guerreiro sagrado que cospe fogo.*
 * **PV:** 28 | **DEF:** 16.
-* **Atributos:** Força +3, Presença +2, Const +1, Des -1.
+* **Atributos:** Força +3, Mente +2, Const +1, Des -1.
 * **Equipamento:** Martelo de Guerra, Símbolo Sagrado.
 * **Especial (Sopro):** Cospe fogo em área (2d6 dano).
 * **Especial (Punição):** Gasta magia para somar **+2d8** de dano no ataque.
@@ -49,21 +49,21 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 ### 4. O Ladino (Halfling/Pequenino)
 *Furtivo e letal pelas costas.*
 * **PV:** 20 | **DEF:** 14.
-* **Atributos:** Destreza +4, Mente +2, Presença +1, Força -2.
+* **Atributos:** Destreza +4, Mente +2, Constituição +1, Força -2.
 * **Equipamento:** Adagas, Arco Curto, Kit de Ladrão.
 * **Especial (Ataque Furtivo):** Se atacar escondido ou com vantagem, causa **+2d6** de dano extra.
 
 ### 5. O Monge (Elfo da Floresta)
 *Lutador de artes marciais muito rápido.*
 * **PV:** 22 | **DEF:** 15.
-* **Atributos:** Destreza +3, Sabedoria +2, Força +1, Presença -1.
+* **Atributos:** Destreza +3, Constituição +2, Força +1, Mente -1.
 * **Equipamento:** Bastão ou Punhos.
 * **Especial (Rajada):** Se acertar um ataque, pode fazer um segundo ataque (chute) imediatamente.
 
 ### 6. O Patrulheiro (Elfo)
 *Arqueiro e rastreador.*
 * **PV:** 24 | **DEF:** 14.
-* **Atributos:** Destreza +3, Sabedoria +2, Força +1, Presença 0.
+* **Atributos:** Destreza +3, Constituição +2, Força +1, Mente 0.
 * **Equipamento:** Arco Longo, Espada Curta.
 * **Especial (Marca do Caçador):** Marca um inimigo para morrer. Causa **+1d6** de dano extra nele.
 
@@ -84,7 +84,7 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 ### 8. O Clérigo (Anão)
 *Médico de combate (aguenta porrada e cura).*
 * **PV:** 26 | **DEF:** 16 (Escudo pesado).
-* **Atributos:** Sabedoria +3, Força +2, Const +2, Des -1.
+* **Atributos:** Mente +3, Força +2, Const +2, Des -1.
 * **Equipamento:** Maça, Escudo.
 * **Magias (3x Dia):**
     * *Curar Ferimentos:* Cura 1d8+3 PV (toque).
@@ -93,14 +93,14 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
 ### 9. O Druida (Humano)
 *Controla a natureza e vira bicho.*
 * **PV:** 22 | **DEF:** 13.
-* **Atributos:** Sabedoria +3, Const +2, Mente +1, Força 0.
+* **Atributos:** Const +3, Destreza +2, Mente +1, Força 0.
 * **Equipamento:** Foice de mão.
 * **Especial (Forma Selvagem):** 2x por dia, vira um **Lobo** (Ataca e derruba) ou **Urso** (Aguenta dano).
 
 ### 10. O Bardo (Tiefling)
 *Social, música e magia psíquica.*
 * **PV:** 20 | **DEF:** 13.
-* **Atributos:** Presença +4, Des +2, Mente +1, Força -1.
+* **Atributos:** Mente +4, Des +2, Constituição +1, Força -1.
 * **Equipamento:** Alaúde, Rapieira.
 * **Especial (Inspiração):** Dá um dado (d6) para um amigo somar em qualquer teste.
 * **Magia:** *Sussurros Dissonantes* (Dano psíquico 3d6 e o inimigo foge de medo).
