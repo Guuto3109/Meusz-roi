@@ -12,7 +12,6 @@ Bem-vindo à aventura! Abaixo estão as opções de personagens disponíveis.
     * 💪 **Força:** Músculos e pancada.
     * 🏃 **Destreza:** Agilidade, mira e furtividade.
     * 🧠 **Mente:** Inteligência e percepção.
-    * 👑 **Presença:** Carisma e força de vontade.
     * 🛡️ **Constituição:** Resistência física.
 
 ---
